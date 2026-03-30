@@ -1,6 +1,6 @@
 # Open Source Audit: Python
 
-**Student:** Ananya Sharma  
+**Student:** Harshika Sunkara
 **Course:** Open Source Software (NGMC)  
 **Software Audited:** Python (PSF License)
 
